@@ -1,0 +1,33 @@
+_repo: The-Ship-of-Stars_16000
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Quiller-Couch, Arthur
+    aliases:
+    - Q
+    - Quiller-Couch, Arthur Thomas
+    - Quiller-Couch, A. T. (Arthur Thomas)
+    - Quiller-Couch, Sir Arthur Thomas
+    birthdate: 1863
+    deathdate: 1944
+    gutenberg_agent_id: '3579'
+    url: http://www.gutenberg.org/2009/agents/3579
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Quiller-Couch
+description: This novel is a Cornish love story that traces its two protagonists,
+  Taffy and Honoria, from their childhood onward.
+gutenberg_issued: '2005-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16000'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Cornwall (England : County) -- Fiction'
+title: The Ship of Stars
+url: http://www.gutenberg.org/ebooks/16000
