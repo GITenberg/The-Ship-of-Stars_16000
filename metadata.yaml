@@ -18,6 +18,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Quiller-Couch
 description: This novel is a Cornish love story that traces its two protagonists,
   Taffy and Honoria, from their childhood onward.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16000#The-Ship-of-Stars
 gutenberg_issued: '2005-06-07'
 gutenberg_type: Text
 identifiers:
